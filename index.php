@@ -39,7 +39,7 @@
 				<li><strong><a href="https://expcreator.com" title="exp/creator" target="_blank">exp/creator</a></strong> — a consultancy service which helps creators design, operate, and manage the systems and technology that delivers their brands and products.</li>
 			</ul>
 		</div>
-		<p>I write a bi-weekly newsletter for curious minds called <a href="https://exploriter.email" title="The Exploriter Newsletter (TEN)" target="_blank">TEN</a> about interesting tools, systems, and ideas to shape and refine how you think and act.</p>
+		<p>I write a bi-weekly newsletter for curious minds called <a href="https://exploriter.email" title="The Exploriter Newsletter (TEN)" target="_blank">TEN</a> about interesting tools, systems, and ideas that shape and refine how we think and act.</p>
 		<div class="ck">
 			<script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 			<form action="https://app.convertkit.com/forms/1978150/subscriptions" class="formkit-form" method="post" data-sv-form="1978150" data-uid="9a538e092a" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Please check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;}},&quot;version&quot;:&quot;5&quot;}">
